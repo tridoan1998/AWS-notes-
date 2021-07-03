@@ -1,0 +1,8 @@
+AWS IAM services allow to create user, group user, policites, and type of accesses granded to those users under the group. 
+Region matter, some services are not allow at specific regions. 
+Assign permission to AWS services. IAM ROle, used for EC2 instances. 
+Create role for EC2 instance. Go to the Role -> create role -> choose EC2 => fill out all requirements => choose the access allow under the drop down menu.
+REMEMBER: DO NOT USE ROOT(~) ACCOUNT at least it's for creating account. 
+create budget for AWS services and manage the budget.
+CI/CD: continuous interation, continous delivery
+
